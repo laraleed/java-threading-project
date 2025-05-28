@@ -1,5 +1,5 @@
 
-# CMPE 261 Project 3: Java Threading
+# Java Threading Project
 
 ## Project Overview
 
